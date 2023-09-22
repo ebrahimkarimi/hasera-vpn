@@ -1,5 +1,6 @@
 <p align="center">
   <img width="72" height="72" src="https://github.com/ebrahimkarimi/hasera-vpn/blob/main/org.gashbeer.Hasera.png">
+  <img width="273" height="70" src="https://github.com/ebrahimkarimi/hasera-vpn/blob/main/poweredbygashbeer.png">
 </p>
 
 <h1 align="center">Hasera</h1>
