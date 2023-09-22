@@ -16,7 +16,7 @@ wget https://github.com/ebrahimkarimi/hasera-vpn/releases/latest/download/hasera
 #### Ubuntu
 * Download the package from [here](https://github.com/ebrahimkarimi/hasera-vpn/releases)
 * Install the dependencies:
-`sudo apt install libxcb-cursor0 libpcre2-16-0`
+`sudo apt install libxcb-cursor0 libpcre2-16-0 -y`
 * Install the package:
 `sudo dpkg -i hasera.deb`
 
