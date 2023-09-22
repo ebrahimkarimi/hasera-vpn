@@ -12,6 +12,14 @@ Best VPN Client Solution For Linux
 wget https://github.com/ebrahimkarimi/hasera-vpn/releases/latest/download/hasera.deb -O hasera.deb && sudo dpkg -i hasera.deb ; sudo apt -f install -y ; sudo rm hasera.deb
 ```
 
+### Manual Installation
+#### Ubuntu
+* Download the package from [here](https://github.com/ebrahimkarimi/hasera-vpn/releases)
+* Install the dependencies:
+`sudo apt install libxcb-cursor0 libpcre2-16-0`
+* Install the package:
+`sudo dpkg -i hasera.deb`
+
 ### Supported Protocols
 * SSH
 * SSH-TLS
