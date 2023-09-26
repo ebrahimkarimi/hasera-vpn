@@ -30,7 +30,7 @@ wget https://github.com/ebrahimkarimi/hasera-vpn/releases/latest/download/hasera
 * Standard URI (QRCode or Raw)
 
 Standard URIs are using [this](https://regex101.com/r/IZtHlk/1) regex pattern to read connection information
->Note: host validation occurs based on the user dns settings real-time
+>Note: host validation occurs real-time based on the user dns settings 
 
 
 ### Screen Shots
