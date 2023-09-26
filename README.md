@@ -5,7 +5,7 @@
 
 <h1 align="center">Hasera</h1>
 
-Best VPN Client Solution For Linux
+Best VPN Client Solution For Linux Desktop
 
 ### Quick Installation `latest`
 #### Ubuntu (tested on 22.04 LTS)
